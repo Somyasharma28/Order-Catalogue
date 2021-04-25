@@ -1,0 +1,20 @@
+.App .CartImage {
+    height: 50px;
+    width: 50px;
+}
+.App .product {
+    display: flex;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.App .cartProducts {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.App .deleteItem {
+    margin-left: 20px;
+    cursor: pointer;
+}
+

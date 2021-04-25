@@ -1,0 +1,108 @@
+[
+    {
+            "id": 1,
+            "name": "Product 1",
+            "category": "fashion",
+            "brand": "zara",
+            "price": 500,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 5
+        },
+        {
+            "id": 2,
+            "name": "Product 2",
+            "category": "fashion",
+            "brand": "zara",
+            "price": 1000,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 1
+        },
+        {
+            "id": 3,
+            "name": "Product 3",
+            "category": "fashion",
+            "brand": "myntra",
+            "price": 899,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 1
+        },{
+            "id": 4,
+            "name": "Product 4",
+            "category":"electronics",
+            "brand": "apple",
+            "price": 900000,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 3
+        },
+        {
+            "id": 5,
+            "name": "Product 5",
+            "category":"electronics",
+            "brand": "oneplus",
+            "price": 47000,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 1
+        },
+        {
+            "id": 6,
+            "name": "Product 6",
+            "category":"electronics",
+            "brand": "oneplus",
+            "price": 570000,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 4
+        },
+        {
+            "id": 7,
+            "name": "Product 7",
+            "category": "fashion",
+            "brand": "zara",
+            "price": 500,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 5
+        },
+        {
+            "id": 8,
+            "name": "Product 8",
+            "category": "fashion",
+            "brand": "zara",
+            "price": 1000,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 1
+        },
+        {
+            "id": 9,
+            "name": "Product 9",
+            "category": "fashion",
+            "brand": "myntra",
+            "price": 899,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 1
+        },{
+            "id": 10,
+            "name": "Product 10",
+            "category":"electronics",
+            "brand": "apple",
+            "price": 900000,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 3
+        },
+        {
+            "id": 11,
+            "name": "Product 11",
+            "category":"electronics",
+            "brand": "oneplus",
+            "price": 47000,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 1
+        },
+        {
+            "id": 12,
+            "name": "Product 12",
+            "category":"electronics",
+            "brand": "oneplus",
+            "price": 570000,
+            "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/OnePlus_Clover.jpg",
+            "items": 4
+        }
+    ]

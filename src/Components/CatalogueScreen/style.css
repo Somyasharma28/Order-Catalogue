@@ -1,0 +1,22 @@
+.productImage {
+    height: 100px;
+    width: 80px;
+}
+
+.App .cataloguesmain .product {
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.App .cataloguesmain {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.App .searcharea {
+    width: auto;
+}
